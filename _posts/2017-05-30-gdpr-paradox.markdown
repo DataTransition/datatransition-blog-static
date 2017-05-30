@@ -4,7 +4,7 @@ title:  "GDPR, le paradoxe de la Privacy"
 date:   2017-02-17 16:14:25
 categories: GDPR
 tags: Privacy
-image: /assets/article_images/countdown.jpg
+image: /assets/article_images/privacy-dilemme.jpg
 ---
 
 En 1978, la loi informatique et libertés est entrée en vigueur suite à une révolte citoyenne à l’encontre d’un fichier de surveillance massive des Français et Françaises, il ne s’appelait pas TES mais SAFARI.
