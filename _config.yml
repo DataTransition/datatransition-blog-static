@@ -2,6 +2,7 @@
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-redirect-from
 
 # Site settings
 title: "EasyPrivacy Blog"
@@ -19,7 +20,7 @@ cover: "/assets/images/background_image.jpg"
 
 name: 'EasyPrivacy'
 author: 'EasyPrivacy Team'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/ep_logo.png"
 
 paginate:	5
 
