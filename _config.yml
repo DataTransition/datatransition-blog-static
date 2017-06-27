@@ -5,7 +5,7 @@ gems:
   - jekyll-redirect-from
 
 # Site settings
-title: "EasyPrivacy Blog"
+title: "DataTransition Blog"
 description: > # this means to ignore newlines until "email:"
    Faire société à l'ère numérique
 
@@ -18,16 +18,16 @@ float_logo: true # true, false (default)
 cover: "/assets/images/background_image.jpg" 
 #cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'EasyPrivacy'
-author: 'EasyPrivacy Team'
+name: 'DataTransition'
+author: 'DataTransition Team'
 author_image: "/assets/images/ep_logo.png"
 
-paginate:	5
+paginate: 5
 
-url: "https://blog.easyprivacy.tech" # the base hostname & protocol for your site
+url: "https://blog.datatransition.net" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@eEasy_Privacy'
+twitter_handle: "@DT_privacy"
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -36,9 +36,9 @@ twitter_handle: '@eEasy_Privacy'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/Easy_Privacy
-    desc: Follow me on twitter
+  - icon: "twitter"
+    url: "https://twitter.com/DT_privacy"
+    desc: "Follow me on twitter"
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -63,3 +63,4 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
