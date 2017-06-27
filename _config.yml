@@ -5,7 +5,7 @@ gems:
   - jekyll-redirect-from
 
 # Site settings
-title: "DataTransition Blog"
+title: "Data Transition Blog"
 description: > # this means to ignore newlines until "email:"
    Faire société à l'ère numérique
 
@@ -18,8 +18,8 @@ float_logo: true # true, false (default)
 cover: "/assets/images/background_image.jpg" 
 #cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'DataTransition'
-author: 'DataTransition Team'
+name: 'Data Transition'
+author: 'Data Transition Team'
 author_image: "/assets/images/dt_logo.png"
 
 paginate: 5
