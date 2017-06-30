@@ -4,7 +4,7 @@ title:  "Presenter la regtech Privacy …"
 date:   2017-06-23 13:36:14
 categories: GDPR
 tags: GetReady, Tools
-image: /assets/article_images/windows_shades_2500px.jpg
+image: /assets/article_images/window_shades.jpg
 ---
 
 
